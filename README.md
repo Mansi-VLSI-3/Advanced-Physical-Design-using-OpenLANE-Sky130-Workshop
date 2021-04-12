@@ -42,7 +42,7 @@
 * TritonRoute Features
 
 
-# Day 1 
+# Day 1 - Inception of open-source EDA, OpenLANE and Sky130 PDK
 
 ![image](https://user-images.githubusercontent.com/79994584/114463005-76628300-9c01-11eb-9565-266cf5efafa0.png)
 
@@ -97,7 +97,7 @@ From the synthesis reports, what is the buffer ratio:
 More information on OpenLANE can be found on : `https://github.com/efabless/openlane`
 
 
-# Day 2
+# Day 2 - Good floorplan vs bad floorplan and introduction to library cells
 
 **1. Ultilization factor and aspect ratio**
 
@@ -269,7 +269,7 @@ Using -->  `run_floorplan`
 *If your zoom in you will see that all the standard cells are now placed in the standard cell rows in the placement stage.*
 
 
-# Day 3
+# Day 3 - Design library cell using Magic Layout and ngspice characterization
 
 
 **1. Spice Deck**
@@ -431,7 +431,7 @@ To save
 
 
 
-# Day 4
+# Day 4 - Pre-layout timing analysis and importance of good clock tree
 
 **1. Delay Tables**
 
@@ -542,7 +542,7 @@ It is the temporary variation in clock period, it is modelled by using a single 
 
 
 
-# Day 5
+# Day 5 - Final steps for RTL2GDS using tritonRoute and openSTA
 
 Routing in simple terms means the best possible physical connectivity between two points.
 
