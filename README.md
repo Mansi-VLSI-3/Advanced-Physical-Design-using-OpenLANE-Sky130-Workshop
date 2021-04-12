@@ -598,6 +598,21 @@ The process of routing comprises of a huge solution space. Hence, in the industr
 2.)	Detailed Routing (done using Triton Route) – we use that global route and do the connectivity.
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Acknowledgement
+
+**Kunal Ghosh** , *Co-founder (VSD Corp. Pvt. Ltd).*
+
+**Nickson Jose** , *VSD VLSI Engineer*
+
+**Praharsha Mahurkar** , *VSD TA*
+
+**Akurathi Radhika** , *VSD TA*
+
+
+
+
 
 
 
