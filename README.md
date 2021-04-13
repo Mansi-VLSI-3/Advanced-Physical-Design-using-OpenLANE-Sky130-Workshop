@@ -44,6 +44,37 @@
 
 # Day 1 - Inception of open-source EDA, OpenLANE and Sky130 PDK
 
+SoC design and openLANE
+
+Digital ASIC design requires three elements in an automated way :
+
+![image](https://user-images.githubusercontent.com/79994584/114556720-9b4d0980-9c86-11eb-91b1-140c0859d758.png)
+
+
+* RTL IPs 
+* EDA Tools - MAGIC, Qflow, OpenLANE, SPICE simulator etc.
+* PDK Tools 
+
+PDK ( Process Design Kit) 
+
+PDK acts an interface between the design engineers and FABs. It is basicaly a collection of files used to model a fabrication process for the EDA tools used to design an IC. 
+
+Google in collaboration with an agreement with Skywater Technology came up with an  Open source PDK Skywater130 PDK for 130nm process technology node.
+
+*ASIC Design Flow* - It is mainly to take the design from the RTL to GDSII which is the final layout.
+
+![image](https://user-images.githubusercontent.com/79994584/114557052-e8c97680-9c86-11eb-9a9d-cecbe1c59c8f.png)
+
+
+*strive is a family of open SoCs including openPDKs, OpenEDA , OpenRTL.*
+
+OpenLANE ASIC flow
+
+![image](https://user-images.githubusercontent.com/79994584/114558347-35618180-9c88-11eb-8dae-a439abac23d2.png)
+
+
+
+
 ![image](https://user-images.githubusercontent.com/79994584/114463005-76628300-9c01-11eb-9565-266cf5efafa0.png)
 
 
